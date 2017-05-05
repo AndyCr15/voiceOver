@@ -41,7 +41,7 @@
                 android:onClick="playSound"
                 android:scaleType="fitCenter"
                 android:tag="ana"
-                app:srcCompat="@drawable/ana" />
+                app:srcCompat="@drawable/zenyata" />
 
             <ImageView
                 android:id="@+id/bastionView"
@@ -50,7 +50,7 @@
                 android:layout_weight="1"
                 android:onClick="playSound"
                 android:tag="bastion"
-                app:srcCompat="@drawable/bastion" />
+                app:srcCompat="@drawable/zenyata" />
 
             <ImageView
                 android:id="@+id/dvaView"
@@ -121,7 +121,7 @@
                 android:layout_weight="1"
                 android:onClick="playSound"
                 android:tag="mei"
-                app:srcCompat="@drawable/mei" />
+                app:srcCompat="@drawable/zenyata" />
 
             <ImageView
                 android:id="@+id/mercyView"
@@ -199,7 +199,7 @@
                 android:layout_weight="1"
                 android:onClick="playSound"
                 android:tag="soldier"
-                app:srcCompat="@drawable/soldier" />
+                app:srcCompat="@drawable/zenyata" />
 
             <ImageView
                 android:id="@+id/sombraView"
@@ -216,7 +216,7 @@
                 android:layout_weight="1"
                 android:onClick="playSound"
                 android:tag="symmetra"
-                app:srcCompat="@drawable/symmetra" />
+                app:srcCompat="@drawable/zenyata" />
 
             <ImageView
                 android:id="@+id/torbView"
@@ -280,7 +280,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                ads:srcCompat="@drawable/overwatchcirclelogo80" />
+                app:srcCompat="@drawable/zenyata" />
 
         </LinearLayout>
 
