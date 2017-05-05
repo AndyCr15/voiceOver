@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "639717959605",
+    "firebase_url": "https://voiceover-5cb76.firebaseio.com",
+    "project_id": "voiceover-5cb76",
+    "storage_bucket": "voiceover-5cb76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639717959605:android:7b8b0db017ff09c5",
+        "android_client_info": {
+          "package_name": "com.androidandyuk.voiceover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639717959605-d6bglhm1f274bvo4m5h3ikil9hhi38ic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidandyuk.voiceover",
+            "certificate_hash": "4fc4e949725f2ecef655554c896ef128275e2d75"
+          }
+        },
+        {
+          "client_id": "639717959605-gse5nkktdmall2dr7ng90usl60vos3t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmbRcuizZctqyVfeT_feI2Zgb-XzHiPGc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639717959605-gse5nkktdmall2dr7ng90usl60vos3t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
