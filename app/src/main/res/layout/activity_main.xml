@@ -41,7 +41,7 @@
                 android:onClick="playSound"
                 android:scaleType="fitCenter"
                 android:tag="ana"
-                app:srcCompat="@drawable/zenyata" />
+                app:srcCompat="@drawable/ana" />
 
             <ImageView
                 android:id="@+id/bastionView"
@@ -50,7 +50,7 @@
                 android:layout_weight="1"
                 android:onClick="playSound"
                 android:tag="bastion"
-                app:srcCompat="@drawable/zenyata" />
+                app:srcCompat="@drawable/bastion" />
 
             <ImageView
                 android:id="@+id/dvaView"
@@ -59,7 +59,7 @@
                 android:layout_weight="1"
                 android:onClick="playSound"
                 android:tag="dva"
-                app:srcCompat="@drawable/zenyata" />
+                app:srcCompat="@drawable/dva" />
 
             <ImageView
                 android:id="@+id/genjiView"
@@ -68,7 +68,7 @@
                 android:layout_weight="1"
                 android:onClick="playSound"
                 android:tag="genji"
-                app:srcCompat="@drawable/zenyata" />
+                app:srcCompat="@drawable/genji" />
 
             <ImageView
                 android:id="@+id/hanzoView"
@@ -77,7 +77,7 @@
                 android:layout_weight="1"
                 android:onClick="playSound"
                 android:tag="hanzo"
-                app:srcCompat="@drawable/zenyata" />
+                app:srcCompat="@drawable/hanzo" />
         </LinearLayout>
 
         <LinearLayout
@@ -96,7 +96,7 @@
                 android:layout_weight="1"
                 android:onClick="playSound"
                 android:tag="junkrat"
-                app:srcCompat="@drawable/zenyata" />
+                app:srcCompat="@drawable/junkrat" />
 
             <ImageView
                 android:id="@+id/lucioView"
@@ -104,7 +104,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="playSound"
-                app:srcCompat="@drawable/zenyata" />
+                android:tag="lucio"
+                app:srcCompat="@drawable/lucio" />
 
             <ImageView
                 android:id="@+id/mccreeView"
@@ -112,7 +113,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="playSound"
-                app:srcCompat="@drawable/zenyata" />
+                android:tag="mccree"
+                app:srcCompat="@drawable/mccree" />
 
             <ImageView
                 android:id="@+id/meiView"
@@ -121,7 +123,7 @@
                 android:layout_weight="1"
                 android:onClick="playSound"
                 android:tag="mei"
-                app:srcCompat="@drawable/zenyata" />
+                app:srcCompat="@drawable/mei" />
 
             <ImageView
                 android:id="@+id/mercyView"
@@ -129,7 +131,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="playSound"
-                app:srcCompat="@drawable/zenyata" />
+                android:tag="mercy"
+                app:srcCompat="@drawable/mercy" />
         </LinearLayout>
 
         <LinearLayout
@@ -147,7 +150,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="playSound"
-                app:srcCompat="@drawable/zenyata" />
+                android:tag="orisa"
+                app:srcCompat="@drawable/orisa" />
 
             <ImageView
                 android:id="@+id/pharahView"
@@ -155,7 +159,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="playSound"
-                app:srcCompat="@drawable/zenyata" />
+                android:tag="pharah"
+                app:srcCompat="@drawable/phara" />
 
             <ImageView
                 android:id="@+id/reaperView"
@@ -164,7 +169,7 @@
                 android:layout_weight="1"
                 android:onClick="playSound"
                 android:tag="reaper"
-                app:srcCompat="@drawable/zenyata" />
+                app:srcCompat="@drawable/reaper" />
 
             <ImageView
                 android:id="@+id/reinView"
@@ -172,7 +177,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="playSound"
-                app:srcCompat="@drawable/zenyata" />
+                android:tag="reinhardt"
+                app:srcCompat="@drawable/reihardt" />
 
             <ImageView
                 android:id="@+id/roadhogView"
@@ -180,7 +186,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="playSound"
-                app:srcCompat="@drawable/zenyata" />
+                android:tag="roadhog"
+                app:srcCompat="@drawable/roadhog" />
         </LinearLayout>
 
         <LinearLayout
@@ -199,7 +206,7 @@
                 android:layout_weight="1"
                 android:onClick="playSound"
                 android:tag="soldier"
-                app:srcCompat="@drawable/zenyata" />
+                app:srcCompat="@drawable/soldier" />
 
             <ImageView
                 android:id="@+id/sombraView"
@@ -207,7 +214,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="playSound"
-                app:srcCompat="@drawable/zenyata" />
+                android:tag="sombra"
+                app:srcCompat="@drawable/sombra" />
 
             <ImageView
                 android:id="@+id/symmetraView"
@@ -216,7 +224,7 @@
                 android:layout_weight="1"
                 android:onClick="playSound"
                 android:tag="symmetra"
-                app:srcCompat="@drawable/zenyata" />
+                app:srcCompat="@drawable/symmetra" />
 
             <ImageView
                 android:id="@+id/torbView"
@@ -224,7 +232,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="playSound"
-                app:srcCompat="@drawable/zenyata" />
+                android:tag="torbjorn"
+                app:srcCompat="@drawable/torbjorn" />
 
             <ImageView
                 android:id="@+id/tracerView"
@@ -232,7 +241,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="playSound"
-                app:srcCompat="@drawable/zenyata" />
+                android:tag="tracer"
+                app:srcCompat="@drawable/tracer" />
         </LinearLayout>
 
         <LinearLayout
@@ -250,7 +260,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="playSound"
-                app:srcCompat="@drawable/zenyata" />
+                android:tag="widowmaker"
+                app:srcCompat="@drawable/widowmaker" />
 
             <ImageView
                 android:id="@+id/winstonView"
@@ -258,14 +269,17 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="playSound"
-                app:srcCompat="@drawable/zenyata" />
+                android:tag="winston"
+                app:srcCompat="@drawable/winston" />
 
             <ImageView
                 android:id="@+id/zaryaView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                app:srcCompat="@drawable/zenyata" />
+                android:onClick="playSound"
+                android:tag="zarya"
+                app:srcCompat="@drawable/zarya" />
 
             <ImageView
                 android:id="@+id/zenyattaView"
@@ -273,14 +287,15 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="playSound"
-                app:srcCompat="@drawable/zenyata" />
+                android:tag="zenyatta"
+                app:srcCompat="@drawable/zenyatta" />
 
             <ImageView
                 android:id="@+id/imageView2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                app:srcCompat="@drawable/zenyata" />
+                app:srcCompat="@drawable/icon_sml" />
 
         </LinearLayout>
 
