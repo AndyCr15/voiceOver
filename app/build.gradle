@@ -7,8 +7,8 @@ android {
         applicationId "com.androidandyuk.voiceover"
         minSdkVersion 18
         targetSdkVersion 25
-        versionCode 3
-        versionName "v0.2"
+        versionCode 5
+        versionName "v1.0.2"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
@@ -28,8 +28,10 @@ dependencies {
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     compile 'com.google.firebase:firebase-core:10.0.1'
     compile 'com.google.firebase:firebase-ads:10.0.1'
+    compile 'com.google.firebase:firebase-database:10.0.1'
     testCompile 'junit:junit:4.12'
 }
+
 
 
 
